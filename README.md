@@ -2,7 +2,7 @@
 
 meu nome e daiana silverio                                                                                                                                                            
 
-Estou estudando no alura 
+Estou estudando no [Alura](https://www.alura.com.br)
 
 Estou me desenvolvendo em linguagem javaScript
 
